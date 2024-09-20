@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package test_2024_09_20;
+
+option go_package = "iw-mapviewer.cmh.platform-dev.evinternal.net/test_2024_09_20";
+
+service API {
+	rpc RankImages(RankImagesRequest) returns (RankImagesResponse);
+}
+
+message RankImagesRequest {
+    string hello = 1;
+}
+
+message RankImagesResponse {
+    string world = 1;
+}
