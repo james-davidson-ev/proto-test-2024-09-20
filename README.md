@@ -4,7 +4,7 @@
 
 ```
 buf generate --template buf.gen.go.yaml
-cd iw-mapviewer.cmh.platform-dev.evinternal.net
+cd iw-mapviewer.cmh.platform-dev.evinternal.net/api
 git add .
 git commit -m update
 git push
