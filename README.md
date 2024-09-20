@@ -1,10 +1,14 @@
 # proto-test-2024-09-20
 
+## usage
+
+```
 buf generate --template buf.gen.go.yaml
 cd iw-mapviewer.cmh.platform-dev.evinternal.net
 git add .
 git commit -m update
 git push
+```
 
 ## note
 
