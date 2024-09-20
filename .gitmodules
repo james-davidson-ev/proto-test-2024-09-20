@@ -1,3 +1,6 @@
 [submodule "iw-mapviewer.cmh.platform-dev.evinternal.net"]
 	path = iw-mapviewer.cmh.platform-dev.evinternal.net
 	url = https://github.com/james-davidson-ev/test-2024-09-20
+[submodule "iw-mapviewer.cmh.platform-dev.evinternal.net/imagery"]
+	path = iw-mapviewer.cmh.platform-dev.evinternal.net/imagery
+	url = https://github.com/james-davidson-ev/test-2024-09-20
