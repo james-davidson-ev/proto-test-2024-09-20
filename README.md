@@ -8,6 +8,7 @@ git push
 
 ## note
 
-The index.html on https://iw-mapviewer.cmh.platform-dev.evinternal.net includes:
+The file test_2024_09_20 on  https://iw-mapviewer.cmh.platform-dev.evinternal.net includes:
 
-<meta name="go-import" content="iw-mapviewer.cmh.platform-dev.evinternal.net git https://github.eagleview.com/james-davidson/test-2024-09-20">
+<meta name="go-import" content="iw-mapviewer.cmh.platform-dev.evinternal.net/test_2024_09_20 git https://github.com/james-davidson-ev/test-2024-09-20">
+
